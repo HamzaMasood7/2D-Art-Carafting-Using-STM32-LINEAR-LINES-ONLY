@@ -7,12 +7,13 @@ You will have to manually configure the pins using mxcube before.
 
 there is a 50 x 50 matrix. In order to create a shape, change the matrix values to 1.
 
-0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0
-0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
-0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
-0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
-0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
-0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0
+        
+       0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0
+       0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+       0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+       0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+       0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+       0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0
 
 suppose the matrix is like that.
 so lines would now be constructed 
