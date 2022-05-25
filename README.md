@@ -1,4 +1,4 @@
-# 2D-Art-Carafting-Using-STM32-LINEAR-LINES-ONLY
+# 2D-Art-Crafting-Using-STM32-LINEAR-LINES-ONLY
 
 ![IMG_20220217_104317](https://user-images.githubusercontent.com/52085750/166915003-6920d180-9b23-4d47-a0d1-5096f986da39.jpg)
 
